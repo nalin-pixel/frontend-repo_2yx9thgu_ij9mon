@@ -1,8 +1,8 @@
-import { Ski, Ship, Camera, Trees, Wine, Utensils, Plane, Mountain } from 'lucide-react'
+import { Snowflake, Ship, Camera, Trees, Wine, Utensils, Plane, Mountain } from 'lucide-react'
 
 export default function Experiences() {
   const items = [
-    { icon: Ski, title: 'Private Ski Lessons', desc: 'World-class instructors, off-piste guiding, and heli-skiing.' },
+    { icon: Snowflake, title: 'Private Ski Lessons', desc: 'World-class instructors, off-piste guiding, and heli-skiing.' },
     { icon: Camera, title: 'Glacier Photography', desc: 'Sunrise treks to capture the alpenglow across peaks.' },
     { icon: Wine, title: 'Cellar Tastings', desc: 'Rare vintages and Swiss artisan cheeses in our cave.' },
     { icon: Trees, title: 'Forest Sauna Ritual', desc: 'Outdoor sauna and plunge with herbal infusions.' },
